@@ -7,6 +7,7 @@ title: Gallery
 {% for image in site.gallery %}
 [![{{ image.title }}]({{ image.imageUrl }})]({{ image.url }})
 > {{ image.title }}
+[Next]({{ site.gallery[forloop.index-1] }})
 {% endfor %}
 
 ## Image submission
