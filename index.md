@@ -3,5 +3,5 @@ title: Scorpion
 ---
 ## Our spider scorpion
 
-![spooder][https://github.com/crimsonred/crimsonred.github.io/blob/main/assets/img/spooder.jpg?raw=true
+![spooder](/assets/img/spooder.jpg)
 Welcome to our webpage! 
