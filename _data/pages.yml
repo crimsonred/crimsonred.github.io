@@ -1,5 +1,7 @@
 - title: Home
   url: "index.html"
+- title: Image Gallery
+  url: "image-gallery.html"
 - title: "Behavior"
   url: "animal-behavior.html"
 - title: "Habitat"
