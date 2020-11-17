@@ -1,13 +1,66 @@
-<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333333; ">
-  <li style="float: left"><a href="#home" style="display: block; color: white; text-align: center; padding: 16px; text-decoration: none;">Home</a></li>
-  <li style="float: left"><a href="animal-behavior.html" style="display: block; color: white; text-align: center; padding: 16px; text-decoration: none;">Animal Behavior</a></li>
-  <li style="float: left"><a href="animal-habitat.html" style="display: block; color: white; text-align: center; padding: 16px; text-decoration: none;">Animal Habitat</a></li>
-  <li style="float: left"><a href="mating-and-reproduction-Information.html" style="display: block; color: white; text-align: center; padding: 16px; text-decoration: none;">Mating and reproduction Information</a></li>
-  <li style="float: left; background-color: #cccccc"><a href="scientific-name-and-classification.html" style="display: block; color: white; text-align: center; padding: 16px; text-decoration: none;">Scientific name and classification</a></li>
-  <li style="float: left"><a href="animal-anatomy-and-biology.html" style="display: block; color: white; text-align: center; padding: 16px; text-decoration: none;">Animal anatomy and biology</a></li>
-</ul>
+---
+title: Scientific name and classification
+---
 
-Scorpion spider may refer to:
+# Scientific name and classification
 
-- Platyoides and other genera of family Trochanteriidae
-- Arachnura in the family Araneidae
+Then, several years ago, amber fossil dealers independently approached two paleobiologists at the Nanjing Institute of Geology and Paleontology in China with what looked like 5-millimeter-long Uraraneida encased in amber. One of them, Wang Bo, pulled together a team to look at his two specimens, which they eventually named Chimerachne yingi (“chimera spider” in Latin). The other paleobiologist, Huang Diying, assembled a second team that examined a different pair of these fossils. The two groups say they didn’t know about each other until after they submitted their results to the same journal. But, despite some differences, “they draw the same conclusion—that fossil uraraneids, as this group is called, are the closest extinct relatives of spiders,” says Greg Edgecombe, a paleobiologist at the Natural History Museum in London, who was not involved with the work.
+
+![Amber preserved in exquisite detail these 100-million-year-old close relatives to spiders.](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/int%20spider_16x9.jpg?itok=rk2VVeKI)
+
+One group’s specimens give a really clear view of the top of this organism and the other, a great look at the underside, spinnerets and all, Huang and his colleagues report today in Nature Ecology and Evolution. “The degree of preservation is exquisite, and the fossils’ anatomy is easy to interpret,” Sharma says. The presence of the spinnerets, he adds, means they must have originated “very early” in arachnid evolution. The male specimens also have the special appendages for inserting sperm into the female.
+
+Yet they also have a segmented abdomen and a long tail, like a whip scorpion’s whip, Wang and his colleagues report today in the same journal. “These things appear to be essentially spiders with tails!” says Jason Bond, an evolutionary biologist at Auburn University in Alabama who was not involved with the work. This means that early arachnids had a mix of all these traits, which were selectively lost in their descendants, giving rise to the array of arachnids seen today.
+
+And what is even more amazing, says Bond, is that the amber is only 100 million years old. So these spider relatives hunted side by side with spiders for 200 million years.
+
+Spiders, unlike insects, have only two main body parts (tagmata) instead of three: a fused head and thorax (called a cephalothorax or prosoma) and an abdomen (also called an opisthosoma). The exception to this rule are the assassin spiders in the family Archaeidae, whose cephalothorax is divided into two parts by an elongated "neck". In the majority of spiders, the abdomen is not externally segmented. The exception is the Liphistiidae, a basal family, which retains this more primitive character; hence they are sometimes called segmented spiders. The abdomen and cephalothorax are connected by a thin waist called the pedicel. Unlike insects, spiders have an endoskeleton in addition to their exoskeleton.
+
+Cephalothorax
+The cephalothorax, also called prosoma, is composed of two primary surfaces: a dorsal carapace and a ventral sternum. Most external appendages on the spider are attached to the cephalothorax, including the eyes, chelicerae and other mouthparts, pedipalps and legs.
+
+Like other arachnids, spiders are unable to chew their food, so they have a mouth part shaped like a short drinking straw that they use to suck up the liquefied insides of their prey. However, they are able to eat their own silk to recycle proteins needed in the production of new spider webs. Some spiders, such as the dewdrop spiders (Argyrodes), even eat the silk of other spider species.
+
+Appendages
+Spiders typically have eight walking legs (insects have six). They do not have antennae; the pair of appendages in front of the legs are the pedipalps (or just palps). Spiders' legs are made up of seven segments. Starting from the body end, these are the coxa, trochanter, femur, patella, tibia, metatarsus and tarsus. The tip of the tarsus bears claws, which vary in number and size. Spiders that spin webs typically have three claws, the middle one being small; hunting spiders typically have only two claws. Since they do not have antennae, spiders use specialised and sensitive setae on their legs to pick up scent, sounds, vibrations and air currents.
+
+The pedipalps have only six segments: the metatarsus is missing. In adult males, the tarsus of each palp is modified to carry an elaborate and often species-specific structure used for mating (variously called a palpal bulb, palpal organ or copulatory bulb). The basal segments of the pedipalps, the coxae, next to the mouth, are modified to assist with feeding, and are termed maxillae, although they are not homologous with the maxillae of mandibulate arthropods. In mesothele and mygalomorph spiders, the maxillae are only slightly modified; in araneomorph spiders, the anterior edge is often saw-like and is used in cutting up prey.
+
+Eyes, vision, and sense organs
+
+![Multiple eyes of a jumping spider](https://en.wikipedia.org/wiki/File:Jumping_Spider_Eyes.jpg)
+Spiders have up to eight eyes, each with a single lens rather than multiple units as in the compound eyes of insects. The specific arrangement of the eyes is one of the features used in classifying different species. Most species of the Haplogynae have six eyes, although some have eight (Plectreuridae), four (e.g., Tetrablemma) or even two (most Caponiidae). Sometimes one pair of eyes is better developed than the rest, or even, in some cave species, there are no eyes at all. Several families of hunting spiders, such as jumping spiders and wolf spiders, have fair to excellent vision. The main pair of eyes in jumping spiders even sees in color.
+
+Net-casting spiders of genus Deinopis have their posterior median eyes enlarged into large forward-facing compound lenses. These eyes have a wide field of view and are able to gather available light more efficiently than the eyes of cats and owls. This is despite the fact that they lack a reflective layer (tapetum lucidum); instead, each night, a large area of light-sensitive membrane is manufactured within the eyes, and since arachnid eyes do not have irises, it is rapidly destroyed again at dawn.
+
+However, most spiders that lurk on flowers, webs, and other fixed locations waiting for prey tend to have very poor eyesight; instead they possess an extreme sensitivity to vibrations, which aids in prey capture. Vibration sensitive spiders can sense vibrations from such various mediums as the water surface, the soil or their silk threads. Changes in the air pressure can also be detected in search of prey.
+
+Pedicel
+The cephalothorax is joined to the abdomen by a thin flexible pedicel. This allows a spider to move its abdomen in all directions, and thus, for example, to spin silk without moving the cephalothorax. This waist is actually the last segment (somite) of the cephalothorax (the pregenital somite) and is lost in most other members of the Arachnida (in scorpions it is only detectable in the embryos).
+
+Abdomen
+The abdomen is also known as the opisthosoma. On the ventral side of the abdomen are two hardened plates covering the book lungs. These are called the epigastric plates. A fold, known as the epigastric furrow, separates the region of the book lungs and epigyne from the more posterior part of the abdomen. In the middle of this furrow is the opening of the oviduct (in females) and at either end are the lung slits.
+
+Spinnerets
+Further information: Spider silk
+The abdomen has no appendages except from one to four (usually three) modified pairs of movable telescoping organs called spinnerets, which produce silk. Originally, the common ancestor of spiders had four pairs of spinnerets, with two pairs on the tenth body segment and two pairs on the eleventh body segment, located in the middle on the ventral side of the abdomen. The suborder Mesothelae is unique in having only two types of silk glands – thought to be the ancestral condition. All other spiders have the spinnerets further towards the posterior end of the body where they form a small cluster, and the anterior central spinnerets on the tenth segment are lost or reduced (suborder Mygalomorphae), or modified into a specialised and flattened plate called the cribellum (suborder Araneomorphae). The cribellum (usually separated into a left and a right half) produces a thread made up of hundreds to thousands of very fine dry silk fibers (about 10 nm thick) around a few thicker core fibers, which then are combed into a woolly structure by using a group of specialized hairs (setae) on their fourth pair of legs. It is suspected their woolly silk is charged with static electricity, causing its fine fibres to attach to trapped prey. Once all araneomorph (modern) spiders had a cribellum, but today it only remains in the cribellate spiders (although it is sometimes missing even here), which are widespread around the world. Often, this plate lacks the ability to produce silk, and is then called the colulus; an organ that zoologists have not identified a function for. The colulus is reduced or absent in most species. The cribellate spiders were the first spiders to build specialized prey catching webs, later evolving into groups that used the spinnerets solely to make webs, instead using silk threads dotted with droplets of a sticky liquid (like pearls on a necklace) to capture small arthropods, and a few large species even small bats and birds. Other spiders do not build webs at all, but have become active hunters, like the highly successful jumping spiders.
+
+Internal anatomy
+![Spider internal anatomy-en.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Spider_internal_anatomy-en.svg/1400px-Spider_internal_anatomy-en.svg.png)
+Circulation
+Spiders, like most arthropods, have an open circulatory system, i.e., they do not have true blood, or veins which transport it. Rather, their bodies are filled with haemolymph, which is pumped through arteries by a heart into spaces called sinuses surrounding their internal organs. The haemolymph contains hemocyanin, a respiratory protein similar in function to hemoglobin. Hemocyanin contains two copper atoms, tinting the haemolymph with a faint blue color.
+
+The heart is located in the abdomen a short distance within the middle line of the dorsal body-wall, and above the intestine. Unlike in insects, the heart is not divided into chambers, but consists of a simple tube. The aorta, which supplies haemolymph to the cephalothorax, extends from the anterior end of the heart. Smaller arteries extend from sides and posterior end of the heart. A thin-walled sac, known as the pericardium, completely surrounds the heart.
+
+Breathing
+
+![Spider book lungs (cross section)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Comstock-book-lungs.png/440px-Comstock-book-lungs.png)
+Spiders have developed several different respiratory anatomies, based either on book lungs or on tracheae. Mesothele and mygalomorph spiders have two pairs of book lungs filled with haemolymph, where openings on the ventral surface of the abdomen allow air to enter and oxygen to diffuse in and carbon dioxide to diffuse out. This is also the case for some basal araneomorph spiders like the family Hypochilidae, but the remaining members of this group have just the anterior pair of book lungs intact while the posterior pair of breathing organs are partly or fully modified into tracheae, through which oxygen is diffused into the haemolymph or directly to the tissue and organs. This system has most likely evolved in small ancestors to help resist desiccation. The trachea were originally connected to the surroundings through a pair of spiracles, but in the majority of spiders this pair of spiracles has fused into a single one in the middle, and migrated posterior close to the spinnerets.
+
+Among smaller araneomorph spiders there are species in which the anterior pair of book lungs have also evolved into tracheae, or are simply reduced or missing. In a very few species the book lungs have developed deep channels, apparently signs of evolution into tracheae. Some very small spiders in moist and sheltered habitats do not have any breathing organs at all, as gas exchange occurs directly through their body surface. In the tracheal system oxygen interchange is much more efficient, enabling cursorial hunting (hunting involving extended pursuit) and other advanced characteristics, such as having a smaller heart and the ability to live in drier habitats.
+
+Digestion
+
+![Argiope aurantia feeding on silk-wrapped grasshopper](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/OrbWheever-Georgia-Woods.png/380px-OrbWheever-Georgia-Woods.png)
+Digestion is carried out internally and externally. Spiders do not have powerful chelicerae, but secrete digestive fluids into their prey from a series of ducts perforating their chelicerae. The coxal glands are excretory organs that lie in the prosoma, and open to the outside at the coxae of the walking legs. In primitive spiders, such as the Mesothelae and the Mygalomorphae, two pairs of coxal glands open onto the posterior side of the first and third coxae. They release a fluid only during feeding and play an important role in ion and water balance. Digestive fluids dissolve the prey's internal tissues. Then the spider feeds by sucking the partially digested fluids out. Other spiders with more powerfully built chelicerae masticate the entire body of their prey and leave behind only a relatively small amount of indigestible materials. Spiders consume only liquid foods. Many spiders will store prey temporarily. Web weaving spiders that have made a shroud of silk to quiet their envenomed prey's death struggles will generally leave them in these shrouds and then consume them at their leisure.
+
