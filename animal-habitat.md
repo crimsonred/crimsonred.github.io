@@ -1,5 +1,5 @@
 ---
-title: Scorpion Spider habitat
+title: Habitat
 ---
 
 ## Scorpion spider living quaters
