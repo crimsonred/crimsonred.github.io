@@ -5,7 +5,7 @@ title: Gallery
 ## Spider gallery
 
 {% for image in site.gallery %}
-![{{ image.title }}]({{ image.imageUrl }})
+[![{{ image.title }}]({{ image.imageUrl }})]({{ image.url }})
 > {{ image.title }}
 {% endfor %}
 

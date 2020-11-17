@@ -4,5 +4,5 @@ imageUrl: "/assets/img/img1.jpg"
 layout: default
 ---
 
-[![{{ page.title }}]({{ page.imageUrl }})]({{ image.url }})
+![{{ page.title }}]({{ page.imageUrl }})
 > {{ page.title }}
