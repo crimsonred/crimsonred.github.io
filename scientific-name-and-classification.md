@@ -28,7 +28,8 @@ The pedipalps have only six segments: the metatarsus is missing. In adult males,
 
 Eyes, vision, and sense organs
 
-![Multiple eyes of a jumping spider](https://en.wikipedia.org/wiki/File:Jumping_Spider_Eyes.jpg)
+![Multiple eyes of a jumping spider](https://upload.wikimedia.org/wikipedia/commons/5/5d/Jumping_Spider_Eyes.jpg)
+
 Spiders have up to eight eyes, each with a single lens rather than multiple units as in the compound eyes of insects. The specific arrangement of the eyes is one of the features used in classifying different species. Most species of the Haplogynae have six eyes, although some have eight (Plectreuridae), four (e.g., Tetrablemma) or even two (most Caponiidae). Sometimes one pair of eyes is better developed than the rest, or even, in some cave species, there are no eyes at all. Several families of hunting spiders, such as jumping spiders and wolf spiders, have fair to excellent vision. The main pair of eyes in jumping spiders even sees in color.
 
 Net-casting spiders of genus Deinopis have their posterior median eyes enlarged into large forward-facing compound lenses. These eyes have a wide field of view and are able to gather available light more efficiently than the eyes of cats and owls. This is despite the fact that they lack a reflective layer (tapetum lucidum); instead, each night, a large area of light-sensitive membrane is manufactured within the eyes, and since arachnid eyes do not have irises, it is rapidly destroyed again at dawn.
