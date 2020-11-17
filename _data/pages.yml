@@ -1,0 +1,12 @@
+- title: Home
+  url: "index.html"
+- title: "Behavior"
+  url: "animal-behavior.html"
+- title: "Habitat"
+  url: "animal-habitat.html"
+- title: "Mating Information"
+  url: "mating-and-reproduction-information.html"
+- title: "Classification"
+  url: "scientific-name-and-classification.html"
+- title: "Anatomy"
+  url: "animal-anatomy-and-biology.html"
