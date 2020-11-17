@@ -2,7 +2,7 @@
 title: "Spider's cute eyes"
 imageUrl: "/assets/img/img3.jpg"
 layout: default
-nextPage: "/gallery/index4.html"
+nextPage: "/gallery/image4.html"
 
 ---
 
