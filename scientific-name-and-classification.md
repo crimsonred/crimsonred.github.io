@@ -1,5 +1,5 @@
 ---
-title: Scientific name and classification
+title: Classification
 ---
 
 # Scientific name and classification
