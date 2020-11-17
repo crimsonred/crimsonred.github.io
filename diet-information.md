@@ -1,5 +1,5 @@
 ---
-title: Diet Information
+title: Diet
 ---
 
 # Diet Information
