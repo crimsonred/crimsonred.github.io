@@ -9,9 +9,7 @@
        <img src="https://external-preview.redd.it/5FI2KhWlhv5rcuFuERtQ-7_OTjZDTu-O9em3zVC365M.jpg?auto=webp&s=2b69f49c35b57000a91e9e50a317cf6ab2ebd8dc"
        style="float: left; margin-right: 10px;" />     
      </a>
-     
-    <img src="https://images-na.ssl-images-amazon.com/images/I/61aTKIkryzL.jpg"
-     style="float: left; margin-right: 10px;" />    
+       
     
     
 ## Image submission
