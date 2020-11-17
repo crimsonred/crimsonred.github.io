@@ -2,7 +2,7 @@
 title: "Cute spider"
 imageUrl: "/assets/img/spooder.jpg"
 layout: default
-nextPage: "/gallery/index1.html"
+nextPage: "/gallery/image1.html"
 
 ---
 
