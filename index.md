@@ -1,6 +1,7 @@
 ---
-title: Scorpion
+title: Home
 ---
+
 ## Our spider scorpion
 
 ![spooder](/assets/img/spooder.jpg)

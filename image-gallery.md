@@ -1,4 +1,6 @@
-# Gallery
+---
+title: Gallery
+---
 
 ## Spider gallery
 

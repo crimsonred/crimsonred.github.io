@@ -1,5 +1,5 @@
 ---
-title: animal-behavior.md
+title: Behavior
 ---
 
 # Animal behavior
