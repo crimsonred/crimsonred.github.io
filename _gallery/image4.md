@@ -2,6 +2,8 @@
 title: "Relaxed spider"
 imageUrl: "/assets/img/img4.jpg"
 layout: default
+nextPage: "/gallery/image5.html"
+
 ---
 
 ![{{ page.title }}]({{ page.imageUrl }})
