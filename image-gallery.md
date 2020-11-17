@@ -1,14 +1,16 @@
 ---
 title: Gallery
+imageUrl: "/assets/img/spooder.jpg"
+layout: default
+nextPage: "/gallery/image1.html"
+
 ---
 
 ## Spider gallery
 
-{% for image in site.gallery %}
-[![{{ image.title }}]({{ image.imageUrl }})]({{ image.url }})
-> {{ image.title }}
-[Next]({{ image.nextPage }})
-{% endfor %}
+!["Cute spider"]({{ page.imageUrl }})[Next]({{ page.nextPage }})
+> {{ page.title }}
+
 
 ## Image submission
 
