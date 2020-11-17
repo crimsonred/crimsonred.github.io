@@ -4,6 +4,9 @@ title: Behavior
 
 # Animal behavior
 
+![Scorpion Spider](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/spider_16x9.jpg?itok=QAA6VYHR)
+
+
 With such a wide variety of species, behavior varies greatly. Most species are nocturnal, primarily to avoid the intense heat in the desert. The vast majority are solitary, and only interact with others for the purpose of reproduction. Some species are known to cannibalize one another, or fight viciously when they interact.
 
 They are distributed across Australasia, Southern and Eastern Asia with one species from Africa. Females can grow up to 1 to 3 centimetres (0.39 to 1.18 in) long, while males reach only 2 millimetres (0.079 in) long. The name is a combination of the Ancient Greek "arachne-" (ἀράχνη) and "uro" (οὐρά), meaning "tail". The tails are only present on females, but unlike the common names suggests, these spiders aren't related to scorpions.
