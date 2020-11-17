@@ -4,6 +4,8 @@ title: mating-and-reproduction-information.md
 
 # Mating and Reproduction Information
 
+![mating and reproduction](/assets/img/mating.jpg)
+
 ## The site has a page dedicated to mating and reproduction facts about the animal.
 
 * What is the gestational period of the animal?
