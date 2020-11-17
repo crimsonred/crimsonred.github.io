@@ -6,5 +6,6 @@ nextPage: "/gallery/image1.html"
 
 ---
 
-![{{ page.title }}]({{ page.imageUrl }})
+![{{ page.title }}]({{ page.imageUrl }})[Next]({{ page.nextPage }})
 > {{ page.title }}
+
