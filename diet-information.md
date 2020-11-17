@@ -1,4 +1,3 @@
-
 ---
 title: Diet Information
 ---
@@ -14,7 +13,7 @@ Capturing prey
 The web of a funnel-web spider Tegenaria duellica
 Many spiders, but not all, build webs. Other spiders use a wide variety of methods to capture prey.
 
-Web: There are several recognised types of spider web
+![Web: There are several recognised types of spider web](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tegenaria_gigantea.jpg/400px-Tegenaria_gigantea.jpg)
 
 Spiral orb webs, associated primarily with the family Araneidae
 Tangle webs or cobwebs, associated with the family Theridiidae
@@ -27,16 +26,16 @@ Bolas: Bolas spiders are unusual orb-weaver spiders that do not spin the webs. I
 
 Hunting on land: Jumping spiders, Wolf spiders and many other types of spiders hunt freely. Some of these have enhanced eyesight, sometimes approaching that of a pigeon (although with a much smaller field of vision). They are generally robust and agile. Some are opportunistic hunters pouncing upon prey as they find it or even chasing it over short distances. Some will wait for passing prey in or near the mouth of a burrow.
 
+![Fishing spider with its prey, a Cameroon Clawed Frog tadpole](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cameroon_Clawed_frog_tadpole_being_consumed_by_fishing_spider.jpg/400px-Cameroon_Clawed_frog_tadpole_being_consumed_by_fishing_spider.jpg)
 
-Fishing spider with its prey, a Cameroon Clawed Frog tadpole
 Hunting on water: Dolomedes spiders hunt by waiting at the edge of a pool or stream. They hold on to the shore with their back legs while the rest of their body lies on the water, with legs stretched out. When they detect the ripples from prey, they run across the surface to subdue it using their foremost legs, which are tipped with small claws; like other spiders they then inject venom with their hollow jaws to kill and digest the prey. They mainly eat insects, but some larger species are able to catch small fish.
 
 Female water spiders (Argyroneta aquatica) build underwater "diving bell" webs which they fill with air and use for digesting prey, molting, mating and raising offspring. They live almost entirely within the bells, darting out to catch prey animals that touch the bell or the threads that anchor it.
 
 Deception: Some spiders hunt other spiders using deception; the jumping spider Portia mimics the movement of captured insect prey on the webs of other spiders. This attracts the owner of the web whereupon Portia pounces and overwhelms the owner.
 
+![Closed burrow of Cork-lid Trapdoor spider saved in padded container. Probable genus: Stasimopus](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ctenizidae_Cork-lid_Trapdoor_spider_dwelling_IMG_4022t.JPG/400px-Ctenizidae_Cork-lid_Trapdoor_spider_dwelling_IMG_4022t.JPG)
 
-Closed burrow of Cork-lid Trapdoor spider saved in padded container. Probable genus: Stasimopus
 Trapdoor: Trapdoor spiders construct burrows with a cork-like trapdoor made of soil, vegetation and silk. The trapdoor is difficult to see when it is closed because the plant and soil materials effectively camouflage it. The trapdoor is hinged on one side with silk. The spiders typically wait for prey while holding on to the underside of the door. Prey is captured when insects, other arthropods, or small vertebrates disturb the 'trip' lines the spider lays out around its trapdoor, alerting the spider to a meal within reach. The spider detects the prey by vibrations and, when it comes close enough, leaps out of its burrow to make the capture. Some Conothele species do not build a burrow, but construct a silken tube with trapdoor in bark crevices.
 
 Basket: The Kaira spider uses a pheromone to attract moths and catches the insects with a basket formed from its legs.
