@@ -10,4 +10,6 @@
 
 # Animal behavior
 
-## With such a wide variety of species, behavior varies greatly. Most species are nocturnal, primarily to avoid the intense heat in the desert. The vast majority are solitary, and only interact with others for the purpose of reproduction. Some species are known to cannibalize one another, or fight viciously when they interact.They curl up their tails when disturbed, but they are completely harmless. Bites are rare, and result in minor symptoms such as local pain and swelling. They stay at the middle of their web day and night, and their bodies mimic plant litter, such as fallen flowers, twigs, or dead leaves.
+With such a wide variety of species, behavior varies greatly. Most species are nocturnal, primarily to avoid the intense heat in the desert. The vast majority are solitary, and only interact with others for the purpose of reproduction. Some species are known to cannibalize one another, or fight viciously when they interact.
+
+They curl up their tails when disturbed, but they are completely harmless. Bites are rare, and result in minor symptoms such as local pain and swelling. They stay at the middle of their web day and night, and their bodies mimic plant litter, such as fallen flowers, twigs, or dead leaves.
