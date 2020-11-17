@@ -1,5 +1,5 @@
 ---
-title: mating-and-reproduction-information.md
+title: "Mating Information"
 ---
 
 # Mating and Reproduction Information
