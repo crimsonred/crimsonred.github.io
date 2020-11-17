@@ -3,7 +3,7 @@
 ## Spider gallery
 
      
-![spooder](/assets/img/spooder.jpg)
+[![spooder](/assets/img/spooder.jpg)](/assets/img/spooder.jpg)
 > Cute spider
 
 ![img1](/assets/img/img1.jpg)
