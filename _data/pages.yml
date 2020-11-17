@@ -1,5 +1,7 @@
 - title: Home
   url: "index.html"
+- title: "Gallery"
+  url: "image-gallery.html"
 - title: "Behavior"
   url: "animal-behavior.html"
 - title: "Habitat"
@@ -10,3 +12,5 @@
   url: "scientific-name-and-classification.html"
 - title: "Anatomy"
   url: "animal-anatomy-and-biology.html"
+- title: "Diet"
+  url: "diet-information.html"
