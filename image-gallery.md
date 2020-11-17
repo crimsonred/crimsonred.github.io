@@ -2,21 +2,10 @@
 
 ## Spider gallery
 
-     
-[![spooder](/assets/img/spooder.jpg)](/assets/img/spooder.jpg)
-> Cute spider
-
-[![img1](/assets/img/img1.jpg)](/assets/img/img1.jpg)
-> Spider spending a weekend outside home
-
-![img2](/assets/img/img2.jpg)
-> Spider on the concert singing his favorite song
-
-![img3](/assets/img/img3.jpg)
-> Spider's cute eyes
-
-![img4](/assets/img/img4.jpg)
-> Relaxed spider
+{% for image in site.gallery %}
+![{{ image.title }}]({{ image.imageUrl }})
+> {{ image.title }}
+{% endfor %}
 
 ## Image submission
 

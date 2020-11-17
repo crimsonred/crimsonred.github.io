@@ -1,1 +1,6 @@
 theme: jekyll-theme-leap-day
+collections:
+  gallery:
+    output: true
+    layout: default
+    sort_by: title
